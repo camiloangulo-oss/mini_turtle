@@ -34,3 +34,7 @@ reiniciar()
 
 •Uso de variables globales
 
+## 👩‍💻 Autor
+Camilo Angulo  
+Institución Universitaria Digital de Antioquia
+
